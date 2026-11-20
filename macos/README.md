@@ -1,5 +1,7 @@
 # TvtPlay for macOS
 
+TVTest 本体の中で使う場合は、[macOS 用プラグイン](plugin/README.md)を参照してください。
+
 ローカルの M2TS ファイルを再生する macOS 用のスタンドアロン版です。
 映像・音声のデコードと再生には FFmpeg の `ffplay` を使います。
 TVTest 本体や BonDriver のインストールは不要です。
